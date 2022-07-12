@@ -5,7 +5,9 @@ This is my portfolio using HTML, CSS and Bootstrap
 
 ## Authors
 
-- [@RohitUdaiwal](https://www.github.com/rohit9195)
+- [@GITHUB](https://www.github.com/rohit9195)
+- [@LinkedIn](https://www.linkedin.com/in/rohit-udaiwal-94b463204/)
+- [@Twitter](https://www.twitter.com/Ro_hit_9195)
 
 # Tools
 

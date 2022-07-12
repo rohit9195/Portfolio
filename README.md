@@ -1,7 +1,7 @@
 
-# Hip-Hop
+# Portfolio
 
-In this project, I made a Hip-Hop Circular Buzzer which play for infinite time 
+This is my portfolio using HTML, CSS and Bootstrap
 
 ## Authors
 
